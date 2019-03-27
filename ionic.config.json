@@ -1,6 +1,8 @@
 {
   "name": "cursoAlbares",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "63da0ea5"
 }
